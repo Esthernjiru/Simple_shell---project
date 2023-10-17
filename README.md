@@ -1,2 +1,2 @@
-# simple_shell
-Simple Shell Collaboration Project
+ simple_shell
+Simple shell Project
